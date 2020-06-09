@@ -24,12 +24,24 @@
      仮想デスクトップは、コンピューターの一種でデスクトップの数、あるいは領域の拡張を行う。
      または、この種のソフトウェアによって拡張されたデスクトップのこと。
 
-## ・DirectX 12 Ultimatのサポート
-     
-　　
-# 
+## ・Microsoft Edgeの消費メモリ量の改善
+       　　
+## ・電卓アプリの機能改善
+
+## ・メモ帳アプリの機能改善
+
+## ・日本語入力機能改善
+
+## ・Cortanaの単独アプリ化と機能改善
+
+＞https://www.itmedia.co.jp/pcuser/articles/2005/28/news071.html
 
 ＞https://www.techdevicetv.com/ch_windows10/54/
 
-＞
+＞https://support.microsoft.com/ja-jp/help/4026389/windows-10-calculator-in
 
+＞https://japanese.engadget.com/2018/07/16/windows-10/
+
+＞https://dekiru.net/article/20034/
+
+＞https://japan.cnet.com/article/35154475/
