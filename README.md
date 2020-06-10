@@ -22,17 +22,13 @@
 #### 仮想デスクトップとは
      仮想デスクトップは、コンピューターの一種でデスクトップの数、あるいは領域の拡張を行う。
      または、この種のソフトウェアによって拡張されたデスクトップのこと。
+## 
 
-## ・日本語入力機能改善
-
-## ・Cortanaの単独アプリ化と機能改善
 
 #### 引用サイト 
-[windows10概要]（https://www.itmedia.co.jp/pcuser/articles/2005/28/news071.html）
+[windows10概要]
+（https://www.itmedia.co.jp/pcuser/articles/2005/28/news071.html）
 （https://www.pasoble.jp/windows/10/oogata-update-2004.html）
 
 [仮想デスクトップ]（https://www.techdevicetv.com/ch_windows10/54/）
 
-[入力機能改善]（https://dekiru.net/article/20034/）
-
-[Cortana]（https://japan.cnet.com/article/35154475/）
