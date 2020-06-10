@@ -34,14 +34,14 @@
 ## ・Cortanaの単独アプリ化と機能改善
 
 #### 引用サイト 
-[]https://www.itmedia.co.jp/pcuser/articles/2005/28/news071.html
+[windows10概要]（https://www.itmedia.co.jp/pcuser/articles/2005/28/news071.html）
 
-＞https://www.techdevicetv.com/ch_windows10/54/
+[仮想デスクトップ]（https://www.techdevicetv.com/ch_windows10/54/）
 
-＞https://support.microsoft.com/ja-jp/help/4026389/windows-10-calculator-in
+[電卓]（https://support.microsoft.com/ja-jp/help/4026389/windows-10-calculator-in）
 
-＞https://japanese.engadget.com/2018/07/16/windows-10/
+[メモ帳]（https://japanese.engadget.com/2018/07/16/windows-10/）
 
-＞https://dekiru.net/article/20034/
+[入力機能改善]（https://dekiru.net/article/20034/）
 
-＞https://japan.cnet.com/article/35154475/
+[Cortana]（https://japan.cnet.com/article/35154475/）
