@@ -23,28 +23,15 @@
      仮想デスクトップは、コンピューターの一種でデスクトップの数、あるいは領域の拡張を行う。
      または、この種のソフトウェアによって拡張されたデスクトップのこと。
 
-## ・Microsoft Edgeの消費メモリ量の改善
-       　　
-## ・電卓アプリの機能改善
-以前のwindows10の電卓から、タッチ操作に適したものになっている。
-
-###### タブレットモードへの切り替え
-タスクバーの [アクションセンター] をタップし、[タブレットモード] をタップしてデスクトップモードとタブレットモードを切り替えできます。
-！（https://cv.tipsfound.com/windows10/03003/15.png）
-## ・メモ帳アプリの機能改善
-
 ## ・日本語入力機能改善
 
 ## ・Cortanaの単独アプリ化と機能改善
 
 #### 引用サイト 
 [windows10概要]（https://www.itmedia.co.jp/pcuser/articles/2005/28/news071.html）
+（https://www.pasoble.jp/windows/10/oogata-update-2004.html）
 
 [仮想デスクトップ]（https://www.techdevicetv.com/ch_windows10/54/）
-
-[電卓]（https://support.microsoft.com/ja-jp/help/4026389/windows-10-calculator-in）
-
-[メモ帳]（https://japanese.engadget.com/2018/07/16/windows-10/）
 
 [入力機能改善]（https://dekiru.net/article/20034/）
 
