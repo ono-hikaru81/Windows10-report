@@ -33,7 +33,8 @@
 
 ## ・Cortanaの単独アプリ化と機能改善
 
-＞https://www.itmedia.co.jp/pcuser/articles/2005/28/news071.html
+#### 引用サイト 
+[]https://www.itmedia.co.jp/pcuser/articles/2005/28/news071.html
 
 ＞https://www.techdevicetv.com/ch_windows10/54/
 
