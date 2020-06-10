@@ -33,8 +33,15 @@ Ver.2004 からは、セーフモードで起動した場合でも、マイク�
 WSL 2（仮想マシン）のメモリは、利用用途により増加され、メモリが不要になったときに解放されることがなかった。
 が、2004のWSL 2では「Linux 仮想マシン」でメモリの使用状況が改善される。
 また、ファイルエクスプローラーから Linux のルートディレクトリーに、直接アクセスできるようになる。
+
 #### WSL 2とは
+WSL(World Surf League) 2は、専用の仮想マシン環境である「Light Weight utility Virtual Machine」（軽量ユーティリティーVM）を使い、ローカルパッチ（Microsoftによる独自パッチ）を当てたLinuxカーネルバイナリを動作させ、仮想マシン内にLinuxの実行環境を作るもの。
+
 ![WSL1,2比較](https://image.itmedia.co.jp/ait/articles/1906/14/wi-wsl2_01.png)
+
+#### WSL 1とWSL 2のアーキテクチャの違い
+WSL 1は、サブシステムが特殊なプロセス環境を作り、Linuxのカーネル機能をNTカーネルの機能呼び出しに変換してLinuxプログラムを実行する環境を作っていた。このためWSL 1ではLinuxカーネル自体は存在していなかった。これに対してWSL 2では仮想マシン内に専用パッチを当てたLinuxカーネルを動かし、Linuxの実行環境を作る。Linuxカーネルが動作するためほとんどのLinuxプログラムを動作させることができる。
+
 #### 仮想マシンとは
 実際のコンピューターやサーバー上に、仮想化ソフトによって作り出される仮想的なコンピューターのこと。
 
@@ -50,4 +57,8 @@ WSL 2（仮想マシン）のメモリは、利用用途により増加され、
 （https://www.pasoble.jp/windows/10/oogata-update-2004.html）
 
 [仮想デスクトップ]（https://www.techdevicetv.com/ch_windows10/54/）
+
+[WSL2](https://www.atmarkit.co.jp/ait/articles/1906/14/news019.html)
+
+
 
