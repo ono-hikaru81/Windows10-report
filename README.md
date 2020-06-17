@@ -126,12 +126,12 @@ Plan 9 from Bell Labs（Plan 9と略すことが多い）というOS用に開発
 
 #### 引用サイト 
 [windows10概要]
-（https://www.itmedia.co.jp/pcuser/articles/2005/28/news071.html）
-（https://www.pasoble.jp/windows/10/oogata-update-2004.html）
+(https://www.itmedia.co.jp/pcuser/articles/2005/28/news071.html)
+(https://www.pasoble.jp/windows/10/oogata-update-2004.html)
 
-[仮想デスクトップ]（https://www.techdevicetv.com/ch_windows10/54/）
+[仮想デスクトップ](https://www.techdevicetv.com/ch_windows10/54/)
 
-[WSL2] (https://www.atmarkit.co.jp/ait/articles/1906/14/news019.html)
+[WSL2](https://www.atmarkit.co.jp/ait/articles/1906/14/news019.html)
 
 
 
